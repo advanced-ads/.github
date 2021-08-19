@@ -35,7 +35,10 @@ The following questions might help when estimating the priority.
 
 - Is there an alternative solution?
 - Quantify the number of requests for this. E.g., upvotes on https://wpadvancedads.com/feature-requests/, support tickets (with links to them).
+- Are there other quantifiable numbers, e.g., search requests for this topic, customers of a product that solves this already, forum posts asking for it, etc.
 - Describe the pain our users (or we) are experiencing with the current solution.
+
+How can a pre-test of this look like? E.g., can we create a mockup and who can we show it?
 
 If you are not sure, discuss it with your colleagues in a meeting before opening a new ticket.
 
