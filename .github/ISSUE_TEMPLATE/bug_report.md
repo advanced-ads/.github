@@ -15,7 +15,7 @@ If the behavior was never different and does not go against some external requir
 
 Could existing users rely on the current behavior and a change could irritate them?
 
-If you are not sure whether this is a bug or a feature and feel that you need technical help finding it out then contact the most-appropriate developer in our team directly via Slack.
+If you are not sure whether this is a bug or a feature and feel that you need technical help finding it out then contact the most-appropriate developer in our team directly via Slack or [discussions](https://github.com/webgilde/advanced-ads/discussions).
 
 If possible, also check:
 
