@@ -63,6 +63,15 @@ The following questions might help when estimating the priority.
 
 If you are not sure, discuss it with your colleagues in a meeting before opening a new ticket.
 
+Triage
+---
+
+A bug is not supposed to live in the backlog, so we need to decide quickly if
+
+- it is actually a `compatibility` problem with a third-party software, then it might survive in the backlog
+- is not a bug at all, then close the issue
+- fix it
+
 Additional context
 ---
 
