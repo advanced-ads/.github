@@ -57,3 +57,8 @@ The following questions might help when estimating the priority.
 - If it is commercial, how many sales does it have?
 - Is there a public API to implement the solution?
 - Is there an alternative solution?
+
+Triage
+---
+
+- [ ] If we decide to not resolve the conflict or it lands in the backlog, we should add a note to [Known Plugin Conflicts](https://wpadvancedads.com/manual/known-plugin-conflicts/)
