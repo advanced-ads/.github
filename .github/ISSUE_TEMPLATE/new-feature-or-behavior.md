@@ -47,6 +47,8 @@ Additional information
 
 Links to external resources and documentation if applicable.
 
+If changes in the manual are needed after finishing this issue, link to such pages in this section and add the `update-docs` label to the issue.
+
 Tests
 ---
 
