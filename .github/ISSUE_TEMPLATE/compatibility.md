@@ -62,3 +62,8 @@ Triage
 ---
 
 - [ ] If we decide to not resolve the conflict or it lands in the backlog, we should add a note to [Known Plugin Conflicts](https://wpadvancedads.com/manual/known-plugin-conflicts/)
+
+Additional Information
+---
+
+If changes in the manual are needed after finishing this issue, link to such pages in this section and add the `update-docs` label to the issue.
