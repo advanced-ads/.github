@@ -37,6 +37,13 @@ The following questions might help when estimating the priority.
 
 If you are not sure, discuss it with your colleagues in a meeting before opening a new ticket.
 
+Expense
+---
+
+(remove this section when saving the issue)
+
+You can assign a specific `Expense X` label to this issue if you are sure about the amount of work or the `Expense 1` label when the change is obviously straightforward like fixing a typo, changing an image, or URL, etc.
+
 Additional information
 ---
 
