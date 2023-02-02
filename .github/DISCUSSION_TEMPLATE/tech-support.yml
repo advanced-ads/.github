@@ -1,17 +1,29 @@
-name: Tech-support
-description: Ask a question a developer might be able to answer.
-body:
- - name: "Tech-support report"
- - type: input
-   attributes:
-     label: User
-     description: Link to thread in Help Scout or on wordpress.org
-     value: user
- - type: textarea
-   attributes:
-     label: Relevant links
-     description: Links to the website with the issue and/or a related test site.
-     value: links
- - type: markdown
-   attributes:
-     value: "Thanks for completing our form!"
+- type: textarea
+  attributes:
+    label: Operating System
+    description: What operating system are you using?
+    placeholder: Example: macOS Big Sur
+    value: operating system
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Version
+    description: What version of our software are you running?
+    multiple: false
+    options:
+      - 1.0.2 (Default)
+      - 1.0.3 (Edge)
+  validations:
+    required: true
+- type: checkboxes
+  attributes:
+    label: Code of Conduct
+    description: The Code of Conduct helps create a safe space for everyone. We require
+      that everyone agrees to it.
+    options:
+      - label: I agree to follow this project's [Code of Conduct](link/to/coc)
+        required: true
+- type: markdown
+  attributes:
+    value: "Thanks for completing our form!"
