@@ -9,7 +9,7 @@ body:
     id: links
     attributes:
       label: Relevant links
-      description: "Links to the site with the issue. Could be a client site and/or test site, internal or external documentation."
+      description: "Any helpful links. E.g., a client site, test site, internal or external documentation."
       render: bash
   - type: textarea
     id: description
