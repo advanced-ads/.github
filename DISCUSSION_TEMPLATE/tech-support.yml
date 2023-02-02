@@ -1,0 +1,13 @@
+- type: input
+  attributes:
+    label: User
+    description: Link to thread in Help Scout or on wordpress.org
+    value: user
+- type: textarea
+  attributes:
+    label: Relevant links
+    description: Links to the website with the issue and/or a related test site.
+    value: links
+- type: markdown
+  attributes:
+    value: "Thanks for completing our form!"
