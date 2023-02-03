@@ -10,7 +10,6 @@ body:
     attributes:
       label: Relevant links
       description: "Any helpful links. E.g., a client site, test site, internal or external documentation."
-      render: bash
   - type: textarea
     id: description
     attributes:
